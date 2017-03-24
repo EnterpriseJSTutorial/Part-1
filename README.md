@@ -11,4 +11,4 @@ The original article is here:
 https://devblog.xero.com/getting-started-with-javascript-for-enterprise-development-part-1-6ba6a28126a6#.q3xv20wta
 
 You can find links to all of my articles here:
-https://medium.com/@RevJSMonkey
+https://medium.com/@dupski
